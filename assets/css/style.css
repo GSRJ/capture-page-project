@@ -5,7 +5,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: blue;
+    background-color: black;
 }
 
 .container {
@@ -28,7 +28,7 @@ header {
 
 section {
     padding: 20px;
-    background-image: url(capture-page-project/assets/images/people.jpg);
+    background-image: url(main/capture-page-project/assets/images/people.jpg);
     background-size: cover;
     overflow: hidden;
 
